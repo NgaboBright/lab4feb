@@ -1,2 +1,3 @@
 # lab4feb
-bright
+names:bright
+and humud
